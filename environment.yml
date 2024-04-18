@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - black
+  - isort
+  - pip
+  - pip:
+    - pygame
